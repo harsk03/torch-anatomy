@@ -1,7 +1,6 @@
 # torch-anatomy
+### Visualize what your CNN sees, layer by layer
 ---
-**Layer-by-layer visualizer for PyTorch models — Understand what each layer actually does.**
-
 ![torch-anatomy demo](assets/package-image.png)
 
 [![PyPI](https://img.shields.io/pypi/v/torch-anatomy)](https://pypi.org/project/torch-anatomy/)
