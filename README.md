@@ -1,19 +1,34 @@
 # torch-anatomy
 
-# torch-anatomy
-
 **Layer-by-layer visualizer for PyTorch models — Understand what each layer actually does.**
 
-![PyPI](https://img.shields.io/pypi/v/torch-anatomy)
-![License](https://img.shields.io/github/license/harsk03/torch-anatomy)
+[![PyPI](https://img.shields.io/pypi/v/torch-anatomy)](https://pypi.org/project/torch-anatomy/)
+[![License](https://img.shields.io/github/license/harsk03/torch-anatomy)](LICENSE)
 
-## Install
+---
+
+## 🚀 What is torch-anatomy?
+
+**torch-anatomy** is an open-source Python tool to visualize the internal activations of any PyTorch CNN model, layer by layer.  
+Perfect for ML students, researchers, and anyone curious about what their neural network is “seeing”!
+
+---
+
+## 🖼️ Demo
+
+![torch-anatomy demo](examples/demo.gif)
+
+---
+
+## 📦 Install
 
 ```bash
 pip install torch-anatomy
 ```
 
-## Usage
+---
+
+## 🧑‍💻 Quick Usage
 
 ```python
 from torch_anatomy import visualize_layers
@@ -36,10 +51,23 @@ Or from CLI:
 torch-anatomy --model resnet18 --image dog.jpg
 ```
 
-## Features
-- Plug-and-play for any PyTorch CNN
-- Visualizes feature maps for key layers
-- Customizable channels, colormap, and more
+---
 
-## License
+## 🔗 Links
+
+- [PyPI Package](https://pypi.org/project/torch-anatomy/)
+- [Main Code Repository](https://github.com/harsk03/torch-anatomy) (private repo for now !)
+- [Jupyter Notebook Example](examples/demo.ipynb)
+
+---
+
+## 🙌 Contribute & Feedback
+
+- Issues, suggestions, and PRs welcome!
+- Contact: harshalkale2402@gmail.com or open an issue
+
+---
+
+## 📝 License
+
 MIT
