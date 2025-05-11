@@ -49,7 +49,7 @@ torch-anatomy --model resnet18 --image dog.jpg
 
 ---
 ## 🖼️ Examples Screenshots
-![torch-anatomy demo](assets/layer_visualizations.png)
+![torch-anatomy demo](assets/layer_visualizations-2.png)
 ---
 
 ## 🔗 Links
