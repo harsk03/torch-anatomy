@@ -1,6 +1,8 @@
 # torch-anatomy
-
+---
 **Layer-by-layer visualizer for PyTorch models — Understand what each layer actually does.**
+
+![torch-anatomy demo](assets/package-image.png)
 
 [![PyPI](https://img.shields.io/pypi/v/torch-anatomy)](https://pypi.org/project/torch-anatomy/)
 [![License](https://img.shields.io/github/license/harsk03/torch-anatomy)](LICENSE)
@@ -14,9 +16,7 @@ Perfect for ML students, researchers, and anyone curious about what their neural
 
 ---
 
-## 🖼️ Demo
 
-![torch-anatomy demo](assets/package-image.png)
 
 ---
 
