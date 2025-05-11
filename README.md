@@ -16,7 +16,7 @@ Perfect for ML students, researchers, and anyone curious about what their neural
 
 ## 🖼️ Demo
 
-![torch-anatomy demo](examples/demo.gif)
+![torch-anatomy demo](assets/package-image.png)
 
 ---
 
