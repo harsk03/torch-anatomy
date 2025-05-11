@@ -16,10 +16,6 @@ Perfect for ML students, researchers, and anyone curious about what their neural
 
 ---
 
-
-
----
-
 ## 📦 Install
 
 ```bash
@@ -50,6 +46,10 @@ Or from CLI:
 ```bash
 torch-anatomy --model resnet18 --image dog.jpg
 ```
+
+---
+## 🖼️ Examples Screenshots
+![torch-anatomy demo](assets/merged.gif)
 
 ---
 
